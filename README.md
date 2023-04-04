@@ -24,7 +24,7 @@ Criar um usuario:
   - Foto do usuario:
   
   
-  - Schema Final:
+ - Schema Final:
     - nome: string;
     - data_nascimento: string;
     - cpf: string;
