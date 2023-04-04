@@ -34,3 +34,9 @@ Criar um usuario:
     - foto: number;
     - ip: string;
     - saldo: number
+
+- Validações no processo:
+    - Data de nascimento: Validar se é maior ou igual que 18 anos; 
+    - CPF: Buscar pelo cpf em alguma api, se estiver ok, comparar com o nome e data de nascimento;
+    - Senha: deve conter mais que 8 digitos e incluir Numeros e letras;
+    - COD: validar
