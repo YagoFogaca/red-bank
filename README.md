@@ -19,12 +19,12 @@ Criar um usuario:
   - Complemento:
   - Comprovante de residencia:
   
-Página 4 (Comprovação de indentidade):
+- Página 4 (Comprovação de indentidade):
   - Foto do documento:
   - Foto do usuario:
   
   
-  Schema Final:
+  - Schema Final:
     - nome: string;
     - data_nascimento: string;
     - cpf: string;
